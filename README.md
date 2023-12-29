@@ -4,6 +4,7 @@
 
 ### My references
 - https://www.canva.com/design/DAF4Gmg3Iww/r02W1HR-dUlqimjf2Rvaog/edit?utm_content=DAF4Gmg3Iww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- https://drive.google.com/drive/folders/1DsB9Boy8IWIsePGoYnV3yxDvOsYesjgO?usp=sharing
 
 ### Other references
 - https://www.tutorialspoint.com/solidity/solidity_first_application.htm
